@@ -72,7 +72,7 @@ a {
   z-index: 1;
   top: 0%;
   background-color: #ffe2e2;
-  height: 75px;
+  height: auto;
   width: 100%;
   box-shadow: 0 0 2rem 0 rgba(0, 0, 0, 0.3);
 }
